@@ -21,7 +21,7 @@ export const props = {
   },
 };
 
-// husky test
+// husky test1
 export default defineComponent({
   name: "SButton",
   props,
